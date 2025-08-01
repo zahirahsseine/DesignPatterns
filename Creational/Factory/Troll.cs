@@ -1,4 +1,3 @@
-public class Troll : IEnemy {
-    public Troll(int health, int damage, int armor) { /*...*/ }
+public class Troll(int health, int damage, int armor)  : IEnemy {
     public void Attack() => Console.WriteLine("Troll smashes!");
 }
