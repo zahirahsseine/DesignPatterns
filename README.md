@@ -1,4 +1,5 @@
 # Design Patterns Summary
+Remember the principles of KISS and YAGNI: if you can keep it simple, you don’t need to apply a design pattern.
 
 | **Category**  | **Pattern** | **Definition** | **Main Components** | **When NOT to Use** |
 |---------------|-------------|----------------|----------------------|---------------------|
